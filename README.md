@@ -9,5 +9,8 @@ website with buttons to control the robot movement in four directions right,left
 ![Screenshot (153)](https://user-images.githubusercontent.com/73249883/183574297-9230544c-b30c-46a7-b288-bbbcfc90afd8.png)
 ![Screenshot (154)](https://user-images.githubusercontent.com/73249883/183574318-d1f85965-8121-4713-b8d0-b4149867183e.png)
 
-
+## Learning references 
+1. https://www.w3schools.com/php/php_mysql_insert.asp
+2. https://www.youtube.com/watch?v=UzwyDdX3TS8
+3. https://www.youtube.com/watch?v=M3M0t8AT-CU
 
