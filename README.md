@@ -1,6 +1,5 @@
 # Smart_Methods_IOT_task4
 This repository contains all the required tasks of week 5 in IOT / Smart Methods.
-Welcome to the Smart_Methods_IOT_task4 wiki!
 # Synopsis:
 website with buttons to control the robot movement in four directions right,left,forward,backward and stop, when the user click the right button the website will open new page print a letters Based on the pressed button and send "right" to the database 
 - Note : this task similar to my previous task [here](https://github.com/lenaAlenazi/Smart_Methods_IOT_task3.git)
